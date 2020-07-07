@@ -106,3 +106,4 @@ dist
 # dev environment files
 .DS_Store
 config.js
+resources/
